@@ -5,6 +5,8 @@
 Retrofitting an old ugreen usb switcher to be controlled via MQTT and Home Assistant and then Home Kit.  
 To achieve that, I used and ESP32 Board and one relais. 
 
+Installation on Chip with PlatformiO
+
 ### Parts
 - ESP32 Microcontoller ([Link](https://amzn.eu/d/09rRW8V)
 - Arduino Relais ([Link](https://www.amazon.de/dp/B07BVXT1ZK?ref=ppx_pop_mob_ap_share))
