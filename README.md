@@ -1,4 +1,6 @@
-# MQTT_USB_Switcher (NOT WORKING YET! Wait for update)
+# MQTT_USB_Switcher 
+
+Current Progress: Check [Milestones](https://github.com/Xeferis/MQTT_USB_Switcher/milestones)
 
 ## Introduction
 
